@@ -1,4 +1,4 @@
-### Hi there, I'm Shayan - TL [BlackMoonStudio][website] 👋 
+### Hi there, I'm Shayan - TL @[BlackMoonStudio][website] 👋 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://blackmoon.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -65,11 +65,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/26) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. ❗️ Closed issue [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. 🗣 Commented on [#25](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/25) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. ❗️ Closed issue [#20](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/20) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. ❗️ Closed issue [#23](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/23) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
+1. 🗣 Commit on on [#26](https://github.com/blackmoonstudio/blackmoonstudio/edit/main/README.md) in [https://github.com/blackmoonstudio/blackmoonstudio/edit/main/README.md)
 <!--END_SECTION:activity-->
 
 </details>
