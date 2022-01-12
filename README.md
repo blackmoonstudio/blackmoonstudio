@@ -84,7 +84,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=blackmoonstudio&show_icons=true&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=blackmoonstudio&&show_icons=true" />
 
 </details>
 
