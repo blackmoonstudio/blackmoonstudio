@@ -22,7 +22,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FUnity3D%2Fcomments%2Fpzk6jd%2Fnew_unity_logo_found_in_the_latest_20212_beta%2F&psig=AOvVaw0sNZKFrASlUrSd64GYNIfa&ust=1642081939383000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjdsYiurPUCFQAAAAAdAAAAABAD" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
 
 <br />
 <br />
