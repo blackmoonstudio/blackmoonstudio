@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything And trying to manage my team 🤣 
 - 👯 I’m looking to collaborate with other Game Creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to talk and get comment from you it gives me great moral support
+- ⚡ Fun fact: I'm Dark User 😂
 
 ### Connect with me:
 
@@ -22,7 +22,10 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
+[<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
+[<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
+[<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
+[<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
 
 <br />
 <br />
