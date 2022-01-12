@@ -79,7 +79,7 @@
 
 [website]: https://blackmoon.ir
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com
 [youtube]: https://www.youtube.com/watch?v=8pjbqH8rR_M&list=PLras48LIMtbQXaXCk4zhjIeWP9mrYvBB1
 [instagram]: https://instagram.com/_blackmoonstudio
 [linkedin]: https://www.linkedin.com/in/shayan-tolouei-638404188/
