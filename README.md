@@ -24,7 +24,7 @@
 ### Languages and Tools:
 [<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://png2.cleanpng.com/sh/7637127de2a9185a941586fdc239871b/L0KzQYm3WMMyN6ZtipH0aYP2gLBuTfMueKN0fARqbX3sfri0jPFvb6Zmf9c2bHBqf370ifNzd6R0fuY2dnn2hbLzTgN1fZUyeeZ1YYOwgLF5lPZwdJp0RadrOEm8QYq5hMdkPmE1RqMBMki4R4K4UcU0PWg5SqUANEi7Q4m1kP5o/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />][webdevplaylist]
-[<img align="left" alt="C++" width="26px" src="https://download.logo.wine/logo/C%2B%2B/C%2B%2B-Logo.wine.png" />][webdevplaylist]
+[<img align="left" alt="C++" width="26px" src="https://github.com/blackmoonstudio/blackmoonstudio/blob/main/C%2B%2B-Logo.wine.png" />][webdevplaylist]
 [<img align="left" alt="Unity" width="26px" src="https://github.com/blackmoonstudio/blackmoonstudio/blob/main/visual-studio-seeklogo.com.svg" />][webdevplaylist]
 
 <br />
