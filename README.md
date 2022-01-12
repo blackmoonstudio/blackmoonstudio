@@ -28,9 +28,9 @@
 [<img align="left" alt="VS" width="26px" src="https://github.com/blackmoonstudio/blackmoonstudio/blob/main/visual-studio-seeklogo.com.svg" />][webdevplaylist]
 [<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
 [<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />][webdevplaylist]
-[<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
-[<img align="left" alt="MYSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
-[<img align="left" alt="GIT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
+[<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" />][webdevplaylist]
+[<img align="left" alt="MYSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Antu_mysql-workbench.svg" />][webdevplaylist]
+[<img align="left" alt="GIT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Git-icon-black.svg />][webdevplaylist]
 
 <br />
 <br />
