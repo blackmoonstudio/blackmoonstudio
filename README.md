@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://blackmoon.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Game Dev and IOT Engineer!
 
 - 🔭 I just launched my first Indie Game: [Fly With Orio!][course]!
 - 🌱 I’m currently learning everything And trying to manage my team 🤣 
@@ -25,8 +25,12 @@
 [<img align="left" alt="Unity" width="26px" src="https://i.redd.it/tu3gt6ysfxq71.png" />][webdevplaylist]
 [<img align="left" alt="C#" width="26px" src="https://png2.cleanpng.com/sh/7637127de2a9185a941586fdc239871b/L0KzQYm3WMMyN6ZtipH0aYP2gLBuTfMueKN0fARqbX3sfri0jPFvb6Zmf9c2bHBqf370ifNzd6R0fuY2dnn2hbLzTgN1fZUyeeZ1YYOwgLF5lPZwdJp0RadrOEm8QYq5hMdkPmE1RqMBMki4R4K4UcU0PWg5SqUANEi7Q4m1kP5o/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png" />][webdevplaylist]
 [<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][webdevplaylist]
-[<img align="left" alt="Unity" width="26px" src="https://github.com/blackmoonstudio/blackmoonstudio/blob/main/visual-studio-seeklogo.com.svg" />][webdevplaylist]
-[<img align="left" alt="Unity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
+[<img align="left" alt="VS" width="26px" src="https://github.com/blackmoonstudio/blackmoonstudio/blob/main/visual-studio-seeklogo.com.svg" />][webdevplaylist]
+[<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
+[<img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />][webdevplaylist]
+[<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
+[<img align="left" alt="MYSQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
+[<img align="left" alt="GIT" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" />][webdevplaylist]
 
 <br />
 <br />
