@@ -43,11 +43,11 @@
 <!-- YOUTUBE:START -->
 - [MAKE IT first trailer - The New Mobile Puzzle Game - Black Moon Game Studio](https://www.youtube.com/watch?v=8pjbqH8rR_M&list=PLras48LIMtbQXaXCk4zhjIeWP9mrYvBB1)
 
-- [Make it - Puzzle Game & Brain Training](https://play.google.com/store/apps/details?id=com.blackmoonstudio.makeit)
+- [Make it - Puzzle Game & Brain Training #GooglePlayStore](https://play.google.com/store/apps/details?id=com.blackmoonstudio.makeit)
 ---
 - [Fly With Orio ( New Journey ) - Official trailer by Black Moon Studio](https://www.youtube.com/watch?v=4Cl_EcFlCmM)
 
-- [Fly With Orio ( New Journey )](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)
+- [Fly With Orio ( New Journey ) #GooglePlayStore](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)
 
 <!-- YOUTUBE:END -->
 ---
