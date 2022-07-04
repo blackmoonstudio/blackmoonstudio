@@ -5,7 +5,7 @@
 
 ## I'm a Game Dev and IOT Engineer!
 
-- 🔭 I just launched my first Indie Game: [Fly With Orio!][course]!
+- 🔭 I just launched my first Indie Game: [Fly With Orio!][https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney]!
 - 🌱 I’m currently learning everything And trying to manage my team 🤣 
 - 👯 I’m looking to collaborate with other Game Creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -44,6 +44,10 @@
 - [MAKE IT first trailer - The New Mobile Puzzle Game - Black Moon Game Studio](https://www.youtube.com/watch?v=8pjbqH8rR_M&list=PLras48LIMtbQXaXCk4zhjIeWP9mrYvBB1)
 
 - [Make it - Puzzle Game & Brain Training](https://play.google.com/store/apps/details?id=com.blackmoonstudio.makeit)
+---
+- [Fly With Orio ( New Journey ) - Official trailer by Black Moon Studio](https://www.youtube.com/watch?v=4Cl_EcFlCmM)
+
+- [Fly With Orio ( New Journey )](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)
 
 <!-- YOUTUBE:END -->
 
