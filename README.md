@@ -5,7 +5,7 @@
 
 ## I'm a Game Dev and IOT Engineer!
 
-- 🔭 I just launched my first Indie Game: [Fly With Orio!][https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney]!
+- 🔭 I just launched my first Indie Game: [Fly With Orio!](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)!
 - 🌱 I’m currently learning everything And trying to manage my team 🤣 
 - 👯 I’m looking to collaborate with other Game Creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -50,7 +50,7 @@
 - [Fly With Orio ( New Journey )](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)
 
 <!-- YOUTUBE:END -->
-
+---
 ➡️ [Our Google Play Page](https://play.google.com/store/apps/developer?id=Black+Moon+Game+Studio)
 
 ---
@@ -84,7 +84,7 @@
 [website]: https://blackmoon.ir
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com
-[youtube]: https://www.youtube.com/watch?v=8pjbqH8rR_M&list=PLras48LIMtbQXaXCk4zhjIeWP9mrYvBB1
+[youtube]: https://www.youtube.com/channel/UCkdGjNkWq0jBCXLUKZPbM4w
 [instagram]: https://instagram.com/_blackmoonstudio
 [linkedin]: https://www.linkedin.com/in/shayan-tolouei-638404188/
-[webdevplaylist]: https://www.youtube.com/watch?v=8pjbqH8rR_M&list=PLras48LIMtbQXaXCk4zhjIeWP9mrYvBB1
+[webdevplaylist]: https://www.youtube.com/channel/UCkdGjNkWq0jBCXLUKZPbM4w
