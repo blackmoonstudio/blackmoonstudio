@@ -8,7 +8,7 @@
 - 🔭 I just launched my first Indie Game: [Fly With Orio!](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)!
 - 🌱 I’m currently learning everything And trying to manage my team 🤣 
 - 👯 I’m looking to collaborate with other Game Creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm Dark User 😂
 
 ### Connect with me:
