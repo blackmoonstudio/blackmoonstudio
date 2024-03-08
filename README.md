@@ -1,4 +1,4 @@
-### Hi there, I'm Shayan - TL @[BlackMoonStudio][website] 👋 
+### Hi there, I'm  @[BlackMoonStudio][website] 👋 
 
 [![Website](https://img.shields.io/website?label=BlackMoon.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://blackmoon.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlackMoonGameStudio?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ShayanTL)
@@ -8,8 +8,8 @@
 - 🔭 I just launched my first Indie Game: [Fly With Orio!](https://play.google.com/store/apps/details?id=com.BlackMoonStudio.FlyWithOrionewjourney)!
 - 🌱 I’m currently learning everything And trying to manage my team 🤣 
 - 👯 I’m looking to collaborate with other Game Creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm Dark User 😂
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I'm a Dark User 😂
 
 ### Connect with me:
 
